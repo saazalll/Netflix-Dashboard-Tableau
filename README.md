@@ -64,7 +64,3 @@ It highlights global trends in content distribution, genres, ratings, and yearly
 ## 🤝 Contributing
 Feel free to fork this repo, raise issues, or submit pull requests if you’d like to improve the dashboard or add new features.  
 
----
-
-## 📜 License
-This project is licensed under the MIT License.
